@@ -8,7 +8,6 @@ function Header() {
           className="star-icon"
           src="./assets/images/icon-star.svg"
           alt="star icon"
-          role="presentation"
         />
       </span>
       <h1 className="heading">FAQs</h1>
